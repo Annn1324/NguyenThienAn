@@ -1,0 +1,3 @@
+HovaTen: NguyenThienAn
+Tuoi: 18
+NgheNghiep: Sinh vien
